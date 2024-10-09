@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putnbr.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: yurolive <yurolive@student.42.fr>          +#+  +:+       +#+        */
+/*   By: ide-la-r <ide-la-r@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/11 15:42:26 by yurolive          #+#    #+#             */
 /*   Updated: 2024/08/11 17:31:56 by yurolive         ###   ########.fr       */
